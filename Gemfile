@@ -6,5 +6,4 @@ gem 'pry'
 gem 'nokogiri'
 
 group :development do
-  gem 'byebug'
 end
