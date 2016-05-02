@@ -46,7 +46,7 @@ base_urls:
     - 'http://www.soduscsd.org/jobs.cfm?location=818'
     - 'http://www.spencerportschools.org/jobs.cfm?cat=4'
     - 'http://www.spencerportschools.org/jobs.cfm?job=7790&cat=4&getjob=1'
-    - 'http://www.waterloocsd.org/jobs.cfm'
+    - 'http://www.waterloocsd.org/jobs.cfm?location=0'
     - 'http://www.williamsvillek12.org/jobs.cfm?location=0'
     - 'https://secure.myschooljobs.org/ClydeSavannahCSD/jobs.cfm'
     - 'https://secure.myschooljobs.org/ClydeSavannahCSD/jobs.cfm?master=214293&cfm=end&school=0'
@@ -89,3 +89,4 @@ base_urls:
     - 'https://secure.myschooljobs.org/williamsoncsd/jobs.cfm?location=0'
     - 'https://secure.myschooljobs.org/wirondequoit/jobs.cfm?cat=2597'
     - 'https://secure.penfield.edu/jobs.cfm?location=0'
+    - 'https://secure.myschooljobs.org/PhelpsCliftonSprings/jobs.cfm?cat=3830'

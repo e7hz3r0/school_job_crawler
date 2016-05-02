@@ -174,7 +174,7 @@ if __FILE__ == $0
 
   spider = ProgrammableWeb.new(root: urls)
 
-  spider.results.lazy.take(5).each_with_index do |result, i|
+  spider.results.lazy.each_with_index do |result, i|
     warn "%-2s: %s" % [i, result.inspect]
   end
 end
