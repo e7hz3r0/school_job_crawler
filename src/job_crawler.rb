@@ -96,6 +96,8 @@ class Spider
 
   def agent
     @agent ||= Mechanize.new
+    @agent.agent.http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+    @agent
   end
 end
 
